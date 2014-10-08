@@ -8,3 +8,5 @@ It supossed that this change could be get rid, another modification? another mod
 and again from local?
 
 MODIFIED 001 IN MAIN REPO
+
+MODIFIED 002 IN LOCAL REPO
