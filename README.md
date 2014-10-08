@@ -6,3 +6,5 @@ this is my first lovely repository and I just modified it and again I modified i
 It supossed that this change could be get rid, another modification? another modification from local?
 
 and again from local?
+
+MODIFIED 001 IN MAIN REPO
