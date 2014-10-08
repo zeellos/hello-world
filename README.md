@@ -16,3 +16,5 @@ MODIFIED 003 IN LOCAL REPO (this was an inconcious modification)
 ONE MORE TIME
 
 this is not in index
+
+This is another modification in local repository
