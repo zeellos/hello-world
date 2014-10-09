@@ -17,4 +17,4 @@ ONE MORE TIME
 
 this is not in index
 
-This is another modification in local repository
+this another modification in MAIN REPOSITORY
